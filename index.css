@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	color: red;
+}
+
+.mySlides {
+	height: 100vh;
+	width: 100vw;
+}
+
