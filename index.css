@@ -1,24 +1,5 @@
-@charset "UTF-8";
-/* CSS Document */
-
-h1 {
-	color: red;
+/* If you want the image to scale both up and down on responsiveness */
+img {
+	width: 100%;
+	height: auto;
 }
-
-.mySlides {
-	height: 100vh;
-	width: 100vw;
-}
-
-@media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
-  html {
-    transform: rotate(-90deg);
-    transform-origin: left top;
-    width: 100vh;
-    overflow-x: hidden;
-    position: absolute;
-    top: 100%;
-    left: 0;
-  }
-}
-
