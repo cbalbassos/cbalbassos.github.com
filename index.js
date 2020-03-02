@@ -1,10 +1,7 @@
 var cardVisuals = new Array(4);
-let cardSources = ['img/c-teacher.png',
-				   'img/c-student.png',
-				   'img/c-admin.png',
-				   'img/c-parent.png']
+let cardSources = ['c-teacher.png', 'c-student.png', 'c-admin.png', 'c-parent.png']
 
-let fullGame = ['img/title.png', cardSources, 'img/great-work.png' ]
+let fullGame = ['title.png', cardSources, 'great-work.png' ]
 
 
 /* SHUFFLE */
