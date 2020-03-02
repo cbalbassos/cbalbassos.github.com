@@ -36,6 +36,7 @@ function changeImage(){
 		//imageIndex = 0;
 		newArray = shuffleCards(cardSources);
 		// take it out of the array and put it back in again
+		location.reload();
 	}
 }
 
