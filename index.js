@@ -28,7 +28,7 @@ var imageIndex = 0;
 
 function changeImage(){
 	imageIndex++;
-	document.getElementById("count").style.color = "#FFFFFF";
+	document.getElementById("count").style.color = "#DD875F";
 	
 	
 	if (imageIndex == 1) {
