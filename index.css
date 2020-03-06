@@ -1,5 +1,24 @@
 /* If you want the image to scale both up and down on responsiveness */
-img {
+body {
+	background: #000000;
+}
+
+.container {
+	text-align: center;
+	margin-top: -6vw;
+}
+
+.container img {
 	width: 100%;
 	height: auto;
+}
+
+
+#count {
+	color: #15364F;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 3vw;
+	position: relative;
+	top: 17vw;
 }
